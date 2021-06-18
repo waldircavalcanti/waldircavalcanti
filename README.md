@@ -1,6 +1,6 @@
 
 
-# Hi, Waldir Cavalcanti :wave::smiley:
+# Hi, I'm Waldir Cavalcanti :wave::smiley:
 
 Analysis and Systems Development 
 
