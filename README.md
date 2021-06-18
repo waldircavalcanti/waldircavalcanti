@@ -4,7 +4,7 @@
 
 Analysis and Systems Development 
 
-👨‍💻  Skills: Mobile Development (Android);
+👨‍💻  Skills: Mobile Development (Android/Kotlin);
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waldircavalcanti/)](https://www.linkedin.com/in/waldircavalcanti/)
 
