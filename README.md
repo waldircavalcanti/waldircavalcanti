@@ -15,5 +15,5 @@ Analysis and Systems Development
 </a>
 
 <a href="https://github.com/waldircavalcanti/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=waldircavalcanti&show_icons=true&include_all_commits=true&theme=dark&show_icons=true" alt="Waldir's github stats" />
+  <img align="center" src="https://github-readme-stats.waldircavalcanti.vercel.app/api?username=waldircavalcanti&show_icons=true&include_all_commits=true&theme=dark&show_icons=true" alt="Waldir's github stats" />
 </a>
