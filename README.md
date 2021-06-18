@@ -9,11 +9,7 @@ Analysis and Systems Development
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waldircavalcanti/)](https://www.linkedin.com/in/waldircavalcanti/)
 
 
-<a href="https://github.com/waldircavalcanti/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=waldircavalcanti&layout=compact&theme=dark&show_icons=true" />
-</a>
-
-<a href="https://github.com/waldircavalcanti/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.waldircavalcanti.vercel.app/api?username=waldircavalcanti&show_icons=true&include_all_commits=true&theme=dark&show_icons=true" alt="Waldir's github stats" />
-</a>
+<p align = "center">
+  <a href="https://github.com/waldircavalcanti"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldircavalcanti&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/waldircavalcanti"><img src="https://github-readme-stats.vercel.app/api?username=waldircavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="waldircavalcanti"/></a>
+</p> 
