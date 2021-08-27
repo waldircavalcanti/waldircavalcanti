@@ -2,7 +2,7 @@
 
 # Hi, I'm Waldir Cavalcanti :wave::smiley:
 
-Analysis and Systems Development 
+Desenvolvedor Android e apaixonado por tecnologia.
 
 👨‍💻  Skills: Mobile Development (Android/Kotlin);
 
